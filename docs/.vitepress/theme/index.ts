@@ -18,7 +18,7 @@ export default {
       dsn: "https://28535f00024737c373688b8451acd0ce@sentry.is26.com/2",
       integrations: [
         new Integrations.BrowserTracing({
-          tracingOrigins: ["luolei.org", /^\//], // replace 'your-website.com' with your actual domain
+          tracingOrigins: ["litang.one", /^\//], // replace 'your-website.com' with your actual domain
         }),
       ],
       tracesSampleRate: 1.0,

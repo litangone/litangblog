@@ -75,7 +75,7 @@ export default defineConfig({
     lastUpdatedText: "最后更新时间",
     footer: {
       message: `Powered By <a href="https://github.com/litangone">VitePress</a>`,
-      copyright: `Copyright © 2024 | <a href="https://litang.one/">LUOLEI.ORG</a><br/>
+      copyright: `Copyright © 2024 | <a href="https://litang.one/">LITANG.ONE</a><br/>
       <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow" class="d-none d-lg-inline-block">粤ICP备xxxxx号</a>
       `,
     },
