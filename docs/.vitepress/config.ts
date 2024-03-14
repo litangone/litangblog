@@ -1,6 +1,6 @@
 import { defineConfig, HeadConfig } from "vitepress";
 import { RssPlugin, RSSOptions } from "vitepress-plugin-rss";
-import { rss } from "./genFeed";
+
 
 import markdownImagePlugin from "./markdownPlugin";
 
