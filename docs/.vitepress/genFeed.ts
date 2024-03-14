@@ -9,12 +9,12 @@ import {
 
 // 限制只抓取最新15篇文章,防止rss文件过大
 const MAX_FEED_ITEMS = 15;
-const id: string = "luolei";
-const baseUrl: string = `https://luolei.org`;
+const id: string = "litang";
+const baseUrl: string = `https://litang.one`;
 type RssGenerator = (config: SiteConfig) => Promise<void>;
 export const rss: RssGenerator = async (config) => {
   const feed: Feed = new Feed({
-    title: `罗磊的独立博客`,
+    title: `李唐的博客`,
     description: "My Personal Blog",
     id: baseUrl,
     link: baseUrl,
