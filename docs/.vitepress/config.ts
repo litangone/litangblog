@@ -12,7 +12,6 @@ export default defineConfig({
   appearance: false,
   ignoreDeadLinks: true,
   base: "/",
-  buildEnd: rss,
   markdown: {
     lineNumbers: true,
     config: (md) => {
