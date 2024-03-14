@@ -1,6 +1,6 @@
 # Intro
 
-罗磊的独立博客
+李唐的独立博客
 
 ## Start
 
@@ -11,7 +11,7 @@ pnpm run docs:dev
 
 ## 参考
 
-本博客主题基于[尤雨溪Vue Blog](https://github.com/vuejs/blog)进行拓展和开发。
+本博客主题基于[罗磊的 Blog](https://github.com/foru17/luoleiorg)进行拓展和开发。
 
 某些代码和功能实现参考和使用以下博客分享:
 

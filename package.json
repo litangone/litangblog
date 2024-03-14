@@ -1,11 +1,11 @@
 {
-  "name": "luoleiorg",
+  "name": "litang",
   "private": true,
   "type": "module",
   "author": {
-    "name": "@foru17",
-    "email": "i@luolei.org",
-    "url": "https://github.com/foru17/luoleiorg"
+    "name": "@litangone",
+    "email": "i@litang.one",
+    "url": "https://github.com/litangone"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
