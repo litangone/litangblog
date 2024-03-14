@@ -4,12 +4,6 @@ import { rss } from "./genFeed";
 
 import markdownImagePlugin from "./markdownPlugin";
 
-const RSS: RSSOptions = {
-  title: "李唐的独立博客",
-  baseUrl: `https://litang.one`,
-  copyright: "Copyright (c) 李唐的独立博客",
-  filename: "rss.xml",
-};
 
 export default defineConfig({
   title: "李唐的独立博客",
