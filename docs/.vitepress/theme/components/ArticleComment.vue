@@ -32,7 +32,7 @@
       pageKey: `${baseDomain}${location.pathname}/`,
       pageTitle: page.title,
       server: "https://artalk.is26.com",
-      site: "罗磊的独立博客",
+      site: "李唐的独立博客",
     };
   }
 
